@@ -13,3 +13,6 @@ This is a midi transcription for SING!CHINA「中國新歌聲」Version of "Fail
 * Drum                      PG: 1
 
 NOTE: Instruments are heard by ears, so it may not accurate to the original version.
+# Dependencies
+## FL Studio 12
+## VoxengoSPAN
